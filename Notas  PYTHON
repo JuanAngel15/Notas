@@ -1,0 +1,76 @@
+And :El operador and evalúa si el valor del lado izquierdo y el lado derecho se cumple.
+
+
+If :En Python, la sentencia if se utiliza para ejecutar un bloque de código si, y solo si, se cumple una determinada condición. Por tanto, if es usado para la toma de decisiones. ... En caso de que se evalúe a False no se ejecutará ninguna sentencia perteneciente a bloque de código .
+
+
+Break :En Python, la instrucción break le proporciona la oportunidad de cerrar un bucle cuando se activa una condición externa. ... Esto muestra que una vez que se evalúa el entero number como equivalente a 5, el bucle se rompe porque se indica al programa que lo haga con la instrucción break .
+
+Or :El operador or evalúa si el valor del lado izquierdo o el lado derecho se cumple
+
+
+Def :La sentencia def es una definición de función usada para crear objetos funciones definidas por el usuario. ... DOCSTRING_DE_FUNCION , es la cadena de caracteres usada para documentar la función. SENTENCIAS , es el bloque de sentencias en código fuente Python que realizar cierta operación dada.
+
+
+Del :El lenguaje de programación Python es ampliamente utilizado por empresas de todo el mundo para construir aplicaciones web, analizar datos, automatizar operaciones y crear aplicaciones empresariales fiables y escalables.
+
+
+Else :La estructura de control if ... else ... permite que un programa ejecute unas instrucciones cuando se cumple una condición y otras instrucciones cuando no se cumple esa condición. En inglés "if" significa "si" (condición) y "else" significa "si no".
+
+
+Global :"global" sirve para declarar una variable como variable global, es decir que se puede acceder a ella desde cualquier parte del programa. La primera funcion recibe 2 numero y devuelve la suma.
+
+
+While :Un bucle while permite repetir la ejecución de un grupo de instrucciones mientras se cumpla una condición (es decir, mientras la condición tenga el valor True). La ejecución de esta estructura de control while es la siguiente: Python evalúa la condición: si el resultado es True se ejecuta el cuerpo del bucle.
+
+
+Finally :El uso típico de la claúsula finally es la realización de tareas de limpieza para que no queden flecos en caso de que se produzca una excepción.
+
+
+For :El bucle for se utiliza para recorrer los elementos de un objeto iterable (lista, tupla, conjunto, diccionario, …) y ejecutar un bloque de código. ... Aquí, elem es la variable que toma el valor del elemento dentro del iterador en cada paso del bucle. Este finaliza su ejecución cuando se recorren todos los elementos.
+
+
+Elif :"elif" sirve para enlazar varios "else if", sin tener que aumentar las tabulaciones en cada nueva comparación. En Python no existe una orden "switch" o "case", sino que se deben realizar enlazando varios casos con "elif".
+
+
+Not :El operador not devuelve el valor opuesto la valor booleano. Si la expresión es True el valor devuelto es False , de lo contrario si la expresión es False el valor devuelto es True .
+
+
+Continue : Objetivo: aprender a utilizar la instrucción continue para saltar directamente a la siguiente iteración en un bucle en Python. ... Al igual que break, continue cancela la ejecución de las instrucciones que quedan pendientes del bucle a partir del mismo momento de su aparición.
+
+
+Is :Python para qué sirve
+El lenguaje de programación Python es ampliamente utilizado por empresas de todo el mundo para construir aplicaciones web, analizar datos, automatizar operaciones y crear aplicaciones empresariales fiables y escalables.
+
+
+Try :Sentencia try-except. Hemos visto que cuando ocurre algún error en el código, Python detiene la ejecución y nos devuelve una excepción, que no es más que una señal que ha occurrido un funcionamiento no esperado o error en el programa, indicándonos aproximadamente qué fue lo que ocurrió.
+
+
+Exec :La función exec() permite ejecutar código Python contenido en una cadena o en un archivo. Si el código no cumple con las reglas del lenguaje producirá una excepción. En el siguiente ejemplo se ejecutan varias cadenas que contienen instrucciones de Python. Por cierto, el término exec en Python 2.
+
+
+Print :La función print() permite incluir variables o expresiones como argumento, lo que nos permite combinar texto y variables: ... La función print() muestra los argumentos separados por espacios, lo que a veces no es conveniente. En el ejemplo siguiente el signo de exclamación se muestra separado de la palabra.
+
+
+Raise :Para levantar una excepción de cualquier tipo, utilizamos también la sentencia raise , pero indicándole el tipo de excepción que deseamos lanzar y pasando a la excepción los parámetros con información adicional que queramos brindar.
+
+
+Lambda :En Python, una función Lambda se refiere a una pequeña función anónima. Las llamamos “funciones anónimas” porque técnicamente carecen de nombre. ... En su lugar, las funciones Lambda se definen como una línea que ejecuta una sola expresión.
+
+
+Class :Las clases proveen una forma de empaquetar datos y funcionalidad juntos. ... Las instancias de clase también pueden tener métodos (definidos por su clase) para modificar su estado. Comparado con otros lenguajes de programación, el mecanismo de clases de Python agrega clases con un mínimo de nuevas sintaxis y semánticas.
+
+
+Import :Para importar un módulo, se utiliza la instrucción import , seguida del nombre del paquete (si aplica) más el nombre del módulo (sin el . py ) que se desee importar. La instrucción `import seguida de nombre_del_paquete. nombre_del_modulo, nos permitirá hacer uso de todo el código que dicho módulo contenga.
+
+
+Assert :Un assert se podría traducir en Español como una comprobación. Se trata por lo tanto de la verificación de una condición determinada, que de no ser cierta, lanzará la excepción AssertionError . ... Es decir, si el contenido existente dentro del assert es igual a False , se lanzará la excepción.
+
+
+Return :La instrucción return indica el final de la función y continúa la ejecución del programa tras la llamada a la función. Se ejecuta la última instrucción del programa y el programa termina. ... Si en el programa no se utilizan esos nombres de variables, la función no funcionaría.
+
+
+Except :Sentencia try-except. Hemos visto que cuando ocurre algún error en el código, Python detiene la ejecución y nos devuelve una excepción, que no es más que una señal que ha occurrido un funcionamiento no esperado o error en el programa, indicándonos aproximadamente qué fue lo que ocurrió.
+
+
+Yield :Un generador es una función que cuando necesita retornar un valor, lo hace con la palabra clave yield en vez de return. Para obtener el siguiente valor de un generador, utilizamos la misma función que para un iterador: next().

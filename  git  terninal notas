@@ -1,0 +1,20 @@
+git init: es para inciar git en  tu compu
+
+git add . :es para agregar todos los archivos 
+
+git commit : es para  poner titulo a tu actualizasion , pero tambien es para nombrar el titulo
+
+git push : es para enviarlo a git 
+
+git  status : en que estado esta 
+
+git push source master: envia a la rama master contenido 
+
+git push source branch: envia contenido a la rama que no es tan valiosa 
+
+git reset — hard :es para resetiar la rama master 
+
+git reset : es para resetiar las ramas 
+
+git checkout -d brand : sirve para eliminar la rama
+

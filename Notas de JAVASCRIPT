@@ -1,0 +1,160 @@
+<script src="..."</script:Dependiendo de la presencia del atributo src , el elemento script puede ser usado para incrustar un trozo de código dentro del documento o para hacer una referencia a un archivo de programas externo que será cargado por separado.
+
+
+<script type="...">El uso de type se concibió para indicarle al navegador qué lenguaje era el que usaba el script. Por ejemplo type="text/vbscript" indicaría lenguaje VBscript, type="text/tcl" indicaría lenguaje TCL, etc. ... Por otro lado ten en cuenta que la etiqueta <script> y su contenido no es lenguaje JavaScript, sino lenguaje HTML.
+
+
+alert: Se usa para advertir al usuario del navegador de que algo está mal o algo que debería mejorar, así como que puede ser también útil para dar información sobre algo concreto, por ejemplo, que se debe introducir un texto en vez de un número.
+
+
+
+ejemplo:
+alert(mensje)\\Muestra:soy angel
+
+
+let:let te permite declarar variables limitando su alcance (scope) al bloque, declaración, o expresión donde se está usando. a diferencia de la palabra clave var la cual define una variable global o local en una función sin importar el ámbito del bloque.
+
+
+var:El ámbito de una variable declarada con la palabra reservada var es su contexto de ejecución en curso, que puede ser la función que la contiene o, para las variables declaradas afuera de cualquier función, un ámbito global. ... Las variables declaradas se limitan al contexto de ejecución en el cual son declaradas.
+
+
+const:  Descripción. Esta declaración crea una constante cuyo alcance puede ser global o local para el bloque en el que se declara. Es necesario inicializar la constante, es decir, se debe especificar su valor en la misma sentencia en la que se declara, lo que tiene sentido, dado que no se puede cambiar posteriormente.
+
+
+ejemplos:
+
+alert(.1 / 0); //Infinity:
+
+
+alert(Infinity);//Infinity:
+
+
+alert("no soy un numero" / 3); //NaN:
+
+
+alert("no soy un numero" / 6 * 7); //NaN:
+
+
+let isFriday = true;:
+// Es viernes !
+
+
+let isFinishThisClass = falce; :
+// La clase aun no ha terminado  
+
+
+
+
+
+espasio espasio espasio  espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio
+
+
+
+
+
+Null:
+
+
+Undefined:
+
+
+Typeof:
+
+
+Typeof undefined:
+
+
+Typeof 0:
+
+
+Typeof true:
+
+
+Typeof "foo":
+
+
+Typeof Symbol("id"):
+
+
+Typeof Math:
+
+
+Typeof null:
+
+
+Typeof alert:
+
+
+Fuunction:
+
+
+Cost:
+
+
+Add:
+
+
+ClassList:
+
+
+QuerySelector:
+
+
+Value:
+
+
+CreateElemnt:
+
+
+AppndChild:
+
+
+CreateTextNodel:
+
+
+SendMessage:
+
+Widget:
+
+
+ChatWrapper:
+
+
+ChatInput:
+
+
+QuerySelectorAll:
+
+
+InsertBefore:
+
+
+newDiv:
+
+
+newContet:
+
+
+forEach:
+
+
+
+remove:
+
+boolean :
+
+
+las constantes  se pueden poner en mallusculas
+
+
+espasio espasio espasio espasio  espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasioespasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio espasio  espasio espasio espasio espasio 
+
+
+if:
+
+
+else
+
+
+for (let i =):
+ 

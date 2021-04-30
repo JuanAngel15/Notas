@@ -1,0 +1,60 @@
+ html:5:HTML5 es un estándar que sirve como referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado HTML) para la definición de contenido de una página web, como texto, imágenes, vídeos, juegos, entre otros…
+
+
+ <div></div>:Sirve para crear secciones o agrupar contenidos. Sus etiquetas son: <div> y </div> (ambas obligatorias). Está definido como: Elemento en bloque.
+
+
+<div class></div>:Sirve para crear secciones o agrupar contenidos. Sus etiquetas son: <div> y </div> (ambas obligatorias). Está definido como: Elemento en bloque.
+
+
+ <h1></h1>:Los elementos de encabezado implementan seis niveles de encabezado del documento, <h1> es el más importante, y <h6> , el menos importante. Un elemento de encabezado describe brevemente el tema de la sección que presenta.
+
+
+ <h2></h2>:El H2 es una etiqueta que se utiliza para identificar a los subtítulos. Son perfectos para separar contenido y dan un poco más de información a los motores de búsqueda. ... Las etiquetas H2 se utilizan para marcar las diferentes secciones de un texto e indicar los subtítulos que tiene el artículo web.
+
+
+ <h3></h3>:Se les llama etiquetas de encabezado a aquellos elementos del código HTML que representan justamente los encabezados de tu página web. ... H1, H2 y H3 ayudan a los motores de búsqueda a comprender qué van a encontrar los usuarios en cada página. El buen uso de estas etiquetas se reflejará en el SEO de tu web.
+
+
+ <p></p>:Definición. El elemento p (párrafo) es el apropiado para distribuir el texto en párrafos. Sus etiquetas son: <p> y </p> (la de cierre es opcional). ... Está definido como: Elemento de frase.
+
+
+ <style></style>:style - estilo. Es el elemento encargado de indicar la información de estilo. Sus etiquetas son: <style> y </style> (ambas obligatorias). Está definido como: Elemento de cabecera.
+
+
+<img src="https://www.netflix.com/watch/80097324?trackId=14170286&tctx=1%2C1%2C2c5ec54f-9306-4328-8b11-5642825f7bdd-729593674%2Cea313a16-daa2-4fe3-a9a1-f9adc31bdc19_1802725X3XX1616616818962%2C%2C">
+
+
+width="200px":La propiedad width establece el ancho de un elemento mediante un valor numérico (con su unidad) o un porcentaje (con respecto al elemento padre). Si no se establece la anchura de un elemento, el elemento ocupa todo el ancho disponible.
+
+
+<ul>:El elemento ul representa una lista no ordenada de ítems que, en contraste con las lista ordenadas (elemento ol ), no produce significados diferentes si el orden de los ítems es alterado. Los ítems de ambas listas, ordenadas y no ordenadas, son representados por el elemento li .
+
+
+<li>:El elemento li representa a un ítem en una lista, ya sea ordenada (elemento ol ) o no ordenada (elemento ul ). En la especificación de HTML 5, el atributo value de este elemento está permitido únicamente en listas ordenadas ( ol ). Su uso en listas no ordenadas ( ul ) es inválido.
+
+
+< a href="">...</a>:El atributo más importante de la etiqueta <a> es href , que se utiliza para indicar la URL a la que apunta el enlace. Cuando el usuario pincha sobre un enlace, el navegador se dirige a la URL del recurso indicado mediante href .
+
+
+<br>:El elemento HTML line break <br> produce un salto de línea en el texto (retorno de carro). Es útil para escribir un poema o una dirección, donde la división de las líneas es significante. No utilices <br> para incrementar el espacio entre líneas de texto; para ello utiliza la propiedad margin de CSS o el elemento <p> 
+
+
+<hr>:descripción de uno o dos párrafosEl elemento HTML <hr> representa un cambio de tema entre párrafos (por ejemplo, un cambio de escena en una historia, un cambio de tema en una sección). En versiones previas de HTML representaba una línea horizontal.
+
+
+<script></script>:El elemento HTML Script ( <script> ) se utiliza para insertar o hacer referencia a un script ejecutable dentro de un documento HTML o XHTML. ... Script dinámico tal como text/javascript .
+
+
+<script src="..."></script>:El elemento HTML Script ( <script> ) se utiliza para insertar o hacer referencia a un script ejecutable dentro de un documento HTML o XHTML.
+
+
+<link rel="stylesheet" href="">:Este atributo indica la relación del documento enlazado con el actual. ... El uso más común para este atributo es especificar el enlace a una hoja de estilos externa: el atributo rel se establece con valor stylesheet , y el atributo href se establece con la URL de la hoja de estilos externa para dar formato a la página.
+
+
+<title></title>:Aparece en la barra de título del navegador cuando las personas ven la página web. El título se almacena en los marcadores de tu navegador y en los motores de búsqueda cuando indexan tus páginas. Usa la etiqueta <title> para dar un título a una página.
+
+
+<nav></nav>:El elemento HTML <nav> representa una sección de una página cuyo propósito es proporcionar enlaces de navegación, ya sea dentro del documento actual o a otros documentos
+
+<Id>

@@ -1,0 +1,236 @@
+Width :La propiedad CSS width especifica la anchura del area de contenido de un elemento.
+
+
+Padding :La propiedad CSS padding establece el espacio de relleno requerido por todos los lados de un elemento. El área de padding es el espacio entre el contenido del elemento y su borde ( border ). No se permiten valores negativos
+
+
+Padding-left:El área de padding es el espacio entre el contenido del elemento y su borde ( border ). No se permiten valores negativos. La propiedad padding es un atajo para evitar la asignación de cada lado por separado ( padding-top , padding-right , padding-bottom , padding-left
+
+
+Padding-rigt:La propiedad CSS padding establece el espacio de relleno requerido por todos los lados de un elemento. El área de padding es el espacio entre el contenido del elemento y su borde ( border ). No se permiten valores negativos.
+
+
+Padding-top:La propiedad padding-top CSS establece el espacio de relleno requerido en la parte superior del elemento. El área de padding es el espacio entre el contenido del elemento y su borde. Contrariamente de la propiedad margin-top , valores negativos no son válidos.
+
+
+Padding-bottom:La propiedad padding-bottom CSS establece el espacio de relleno requerido en la parte inferior del elemento. El área de padding es el espacio entre el contenido del elemento y su borde. Contrariamente de la propiedad margin-bottom , valores negativos no son válidos.
+
+
+Padding-inline-end: La propiedad de CSS padding-inline-end define el relleno final lógico en línea de un elemento, que se asigna a un relleno físico en función del modo de escritura, la direccionalidad y la orientación del texto del elemento.
+
+
+Padding-inline-start:La propiedad de CSS padding-inline-start define el relleno de inicio lógico en línea de un elemento, que se asigna a un relleno físico en función del modo de escritura, la direccionalidad y la orientación del texto del elemento.
+
+
+Padding-block-start:La propiedad de CSS padding-block-start define el bloque lógico de inicio de relleno de un elemento, que se asigna a un relleno físico en función del modo de escritura, la direccionalidad y la orientación del texto del elemento.
+
+
+Padding-block:La propiedad de CSS padding-block define el relleno lógico de inicio y final del bloque de un elemento, que se asigna a las propiedades físicas del relleno según el modo de escritura del elemento, la direccionalidad y la orientación del texto.
+
+
+Font-size:La propiedad font-size especifica la dimensión de la letra. Este tamaño puede, a su vez, alterar el aspecto de alguna otra cosa, ya que se usa para calcular la longitud de las unidades em y ex .
+
+
+Font-family:Resumen. La propiedad font-family define una lista de fuentes o familias de fuentes, con un orden de prioridad, para utilizar en un elemento seleccionado. A diferencia de la mayoría de las propiedades CSS, los valores se separan con comas (",") para indicar que son valores alternativos
+
+
+Font-weight:La propiedad font-weight de CSS especifica el peso o grueso de la letra. Algunos tipos de letra sólo están disponibles en normal y bold 
+
+
+Font-style: La propiedad font-style permite definir el aspecto de una familia tipográfica entre los valores: normal , italic (cursiva) y oblique 
+
+
+Font-variant:La propiedad font-variant permite elegir la variante con la que se muestra el tipo de letra seleccionado mediante la propiedad font-family. Las únicas variantes disponibles en CSS 2.1 son: normal ( normal ) y versalita ( small-caps ).
+
+
+Font-display:El descriptor font-display determina cómo se muestra una fuente basándose en cuándo está descargada y lista para usarse.
+
+
+Font-feature-settings:El valor de la propiedad font-feature-settings está formado por uno o varios descriptores escritos entre comillas y separados por comas. Los descriptores son abreviaturas que activan y así son mostrados los diferentes glifos o pictogramas y caracteres incluidos en la tipografía elegida. 
+
+
+Font-stretch:La propiedad font-stretch permite elegir que un tipo de letra más o menos condensado o expandido. Los valores permitidos son los siguientes: ultra-condensed, extra-condensed, condensed, semi-condensed, normal, semi-expanded, expanded, extra-expanded y ultra-expanded.
+
+
+Font-variant-ligatures:font-variant es la forma acortada de las distintas propiedades definidas para el control de estos aspectos de cada archivo tipográfico. Entre otros aspectos/propiedades que engloba están las propiedades Css siguientes: ... font-variant-ligatures: Controla el tipo de ligaduras a emplear
+
+
+Font-kerning:La propiedad font-kerning permite aplicar kerning (interletraje) al tipo de letra. El kerning es la posibilidad de acercar más o menos dos letras consecutivas aprovechando la forma de las letras. Admite los valores auto, normal y none.
+
+
+Font-language-override:La propiedad CSS font-language-override controla el uso de glifos específicos del idioma en un tipo de letra. ... La propiedad font-language-override le permite anular el comportamiento de tipo de letra para un idioma específico.
+
+
+Font-size-adjust:La propiedad font-size-adjust especifica que el tamaño de la fuente debería escogerse basándose en el tamaño de las minúsculas en lugar las mayúsculas.
+
+
+Font-variant-alternates:Resumen. La propiedad CSS font-variant-alternates controla el uso de glifos alternos. ... Las reglas-at definen nombres, para un tipo determinado de glifos alternativos ( stylistic , styleset , character-variant , swash , ornament o annotation ), asociándolos a un valor OpenType dado.
+
+
+Font-variant-caps:La propiedad font-variant permite elegir la variante con la que se muestra el tipo de letra seleccionado mediante la propiedad font-family. Las únicas variantes disponibles en CSS 2.1 son: normal ( normal ) y versalita ( small-caps ).
+
+
+Font-variant-numeric:La propiedad font-variant-numeric permite mostrar números con formatos especiales. Admite los valores normal, lining-nums, oldstyle-nums, proportional-nums, tabular-nums, diagonal-fractions, stacked-fractions, ordinal y slashed-zeros. ... Un ejemplo es la fuente gratuita Anivers Regular.
+
+
+Font-variant-position:La propiedad font-variant-position permite elegir la posición del carácter. Admite los valores normal, sub y super.
+
+
+Font-variation-setting:Establecer Variaciones de Fuente con CSS. Para definir las variaciones de la fuente, podemos utilizar la propiedad CSS font-variation-settings introducidas con el CSS Fuente de Módulo Nivel 4. Esta es una propiedad de bajo nivel que nos permite controlar la variable fuentes especificando un valor para cada eje.
+
+
+Text-align:La propiedad text-align define cuatro valores para alinear los contenidos a la izquierda ( left ), a la derecha ( right ), centrados ( center ) o justificados ( justify ).
+
+
+Text-decoration:La propiedad CSS text-decoration se usa para establecer el formato de texto a subrayado ( underline ) y suprarrayado ( overline ), tachado ( line-through ) o parpadeo ( blink ).
+
+
+Text-transform:La propiedad CSS text-transform especifica el cambio entre mayúsculas y minúsculas del texto de un elemento. Puede ser usada para que un texto aparezca completamente en mayúsculas, en minúsculas, o con la primera letra de cada palabra en mayúscula.
+
+
+Text-overflow:Con text-overflow tenemos una propiedad de CSS3 muy útil para la maquetación web, ya que nos permite decidir qué aspecto tendrá un texto que no cabe dentro de la caja donde lo hemos ubicado, algo que antes había que solucionar a base de programación, detectando cuando no se mostraba la totalidad de un texto
+
+
+Text-shadow:La propiedad text-shadow agrega sombra al texto. ... Cada sombra es especificada como un ófset del texto, junto con valores de color y radio de difuminación opcionales. Múltiples sombras son aplicadas del frente al fondo, en el mismo orden que sean definidas.
+
+
+Text-indent:La propiedad text-indent indica la tabulación o indentación que se aplica a la primera línea de texto de un elemento. ... text-indent: 0; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce ut leo eu ipsum faucibus pretium.
+
+
+Text-rendering:Esta es una propiedad de CSS poco difundida y lo que nos permite es controlar la forma en que los navegadores y sistemas operativos (Windows y Linux) muestran los textos cuando se utilizan determinado tipo de fuentes, haciendo hincapié en alguna característica.
+
+
+Text-size-adjust: La propiedad font-size-adjust especifica que el tamaño de la fuente debería escogerse basándose en el tamaño de las minúsculas en lugar las mayúsculas.
+
+
+Text-decoration-skip:La propiedad CSS text-decoration se usa para establecer el formato de texto a subrayado ( underline ) y suprarrayado ( overline ), tachado ( line-through ) o parpadeo ( blink ). La regla em { text-decoration: none; } no causará ningún cambio; el párrafo entero seguirá subrayado.
+
+
+Text-decoration-color:La propiedad text-decoration-color establece el color usado cuando se dibujan subrayados o líneas a través del texto, especificadas por la propiedad text-decoration-line . El color especificado será el mismo para los tres tipos de línea.
+
+
+Text-align-last:La propiedad text-align-last establece la alineación horizontal de la última línea de texto en un elemento bloque justo antes de un salto de línea, por ejemplo antes de un <br> ; o al final del párafo <p> .
+
+
+Text-decoration-line:La propiedad CSS text-decoration se usa para establecer el formato de texto a subrayado ( underline ) y suprarrayado ( overline ), tachado ( line-through ) o parpadeo ( blink ).
+
+
+Text-anchor:La principal función de los anchor text, es mostrar una breve descripción del contenido enlazado, para que el usuario pueda entender y encontrar información ampliada sobre la temática que está leyendo, aportando información de utilidad
+
+
+Text-decoration-style:La propiedad CSS text-decoration se usa para establecer el formato de texto a subrayado ( underline ) y suprarrayado ( overline ), tachado ( line-through ) o parpadeo ( blink ).
+
+
+Text-decoration-thickness:Actualmente hay text-decoration-thickness parte del Módulo de Decoración de Texto CSS Nivel 4 . ... La propiedad de CSS de grosor de decoración de texto establece el grosor o ancho de la línea de decoración que se utiliza en el texto de un elemento, como una línea, un subrayado o una línea superior.
+
+
+Text-emphasis:Actualmente hay text-decoration-thickness parte del Módulo de Decoración de Texto CSS Nivel 4 . ... La propiedad de CSS de grosor de decoración de texto establece el grosor o ancho de la línea de decoración que se utiliza en el texto de un elemento, como una línea, un subrayado o una línea superior.
+
+
+Text-emphasis-color: Indica el color de las marcas de énfasis. Por defecto su valor inicial es currentColor y si no se especifica toma el color del texto
+
+
+Text-emphasis-style:La propiedad text-emphasis de CSS 3: Decoración de texto (actualmente -octubre de 2019- en elaboración) está pensada para añadir un símbolo al texto. Estos símbolos se utilizan en los lenguajes asiáticos orientales para enfatizar el texto.
+
+
+Text-justify:El valor justify indica que los contenidos del elemento se deben mostrar de forma justificada, es decir, igualando la longitud de todas las líneas del texto. El estándar de CSS 2.1 no establece el algoritmo que se debe utilizar para justificar los contenidos, por lo que cada navegador define su propio algoritmo.
+
+
+Text-orientation:La propiedad CSS text-orientation define la orientación del texto en una línea de escritura. Ésta propiedad sólo tiene efecto en modo vertical, ésto es, cuando writing-mode no está establecido cómo horizontal-tb .
+
+
+Vertical-align:vertical-align se aplica al elemento inline para alinearlo respecto a la línea dentro de la cual está (por el contrario, text-align se aplica al contenedor para alinear horizontalmente su contenido, lo cual es un concepto distinto). b) vertical-align no alinea respecto al contenedor, sino respecto a la línea
+
+
+Height:Resumen. La propiedad CSS height especifica la altura del area de contenido de un elemento. El área de contenido está dentro del padding, borde, y margen del elemento. Las propiedades min-height y max-height sobreescriben el valor de heigh
+
+
+Background-color:Background-color es un propiedad de CSS que define el color de fondo de un elemento, puede ser el valor de un color o la palabra " transparent e".
+
+
+Background-image: La propiedad background-image se emplea para establecer la imagen de fondo de cada elemento. La imagen se muestra en la zona que ocupan el contenido y el relleno del elemento, justo hasta su borde. Para indicar la imagen que se muestra como fondo de un elemento, se utiliza una URL.
+
+
+
+Background-position: En CSS la propiedad background-position permite posicionar una imagen de fondo dentro de su contenedor. ... Lo que quiere decir que la imagen de fondo aparece posicionada en la esquina izquierda arriba del contenedor.
+
+
+Background-repeat: La propiedad de CSS background-repeat define como se repiten los fondos del documento. Un fondo de imagen puede ser repetido sobre el eje horizontal, el eje vertical, ambos ejes, o no estar repetido.
+
+
+
+Background-size: La propiedad CSS background-size especifica el tamaño de las imágenes de fondo.
+
+
+Background-clip: La propiedad CSS background-clip especifica si el fondo de un elemento, ya sea el color o imagen, se extiende por debajo su borde.
+
+
+Background-attachment: La propiedad background-attachment controla si la imagen de fondo establecida en un elemento se mueve o permanece fija cuando se hace scroll en la ventana del navegador. Por defecto, las imágenes de fondo se mueven con el elemento en el que se muestran.
+
+
+Background-origin: Resumen. La propiedad background-origin especifica el área de origen de un fondo o imagen en determinada caja. para que la propiedad background-position calcule la posición de inicio de un fondo o imagen definida por la propiedad background-image. Valor computado: Mismo que valor especificado.
+
+
+Background-position-x: La propiedad background-position controla la posición en la que se muestra la imagen de fondo de un elemento. ... Si la imagen de fondo se repite horizontalmente, se muestra en la parte superior del elemento y si se repite verticalmente, se muestra en la parte izquierda del elemento.
+
+
+Background-position-y: background-position define la posición inicial de la imagen de fondo especificada. valor calculada : para <length> el valor absoluto, para otros un porcentaje.
+
+
+Background-blend-mode: La propiedad CSS background-blend-mode describe cómo las imágenes de fondo y el color de fondo del elemento deben mezclar entre sí. ... Si la cantidad de modos de fusión y de imagenes de fondo no son iguales, se repetirán y/o truncarán hasta igualar las cantidades.
+
+
+Display:La propiedad CSS display especifica si un elemento es tratado como block or inline element y el diseño usado por sus hijos, como flow layout(Diseño de Flujo), grid(Cuadricula) o flex(Flexible). Formalmente la propiedad display establece los tipos de visualización interna y externa de un elemento
+
+
+Margin-top: La propiedad CSS margin establece el margen para los cuatro lados. Es una abreviación para evitar tener que establecer cada lado por separado con las otras propiedades de margen: margin-top (en-US), margin-right , margin-bottom y margin-left (en-US).
+
+
+Margin-bottom: El margin-bottom CSS (margen-inferior) es la propiedad de un elemento que establece el espacio requerido en la parte inferior de un elemento. Tambien se permiten valores negativos.
+
+
+Margin-left: La propiedad margin-left establece el margen izquierdo de un elemento especificando una longitud o un porcentaje. Los valores en porcentaje se refieren al ancho del elemento padre. Se permiten márgenes negativos.
+
+
+Margin-right: Resumen. La propiedad CSS margin establece el margen para los cuatro lados. Es una abreviación para evitar tener que establecer cada lado por separado con las otras propiedades de margen: margin-top (en-US), margin-right , margin-bottom y margin-left (en-US)
+
+
+Margin-block-end: La propiedad de CSS margin-block define el bloque lógico de inicio y fin de las márgenes de un elemento, que se asigna a las márgenes físicas en función del modo de escritura del elemento, la direccionalidad y la orientación del texto.
+
+
+Margin-block-start: La propiedad de CSS margin-block define el bloque lógico de inicio y fin de las márgenes de un elemento, que se asigna a las márgenes físicas en función del modo de escritura del elemento, la direccionalidad y la orientación del texto.
+
+
+Margin-inline-end: La propiedad de CSS margin-inline-end define el margen final lógico en línea de un elemento, que se asigna a un margen físico en función del modo de escritura, la direccionalidad y la orientación del texto del elemento.
+
+
+Margin-inline-start: The margin-inline-start define el margen de inicio en línea lógico de un elemento, que se asigna a un margen físico según el modo de escritura, la direccionalidad y la orientación del texto del elemento.
+
+
+Margin-block: La propiedad de CSS margin-block define el bloque lógico de inicio y fin de las márgenes de un elemento, que se asigna a las márgenes físicas en función del modo de escritura del elemento, la direccionalidad y la orientación del texto.
+
+
+Margin-inline: La propiedad de CSS margin-inline define los márgenes lógicos de inicio y final en línea de un elemento, que se asignan a márgenes físicos según el modo de escritura, la direccionalidad y la orientación del texto del elemento.
+
+
+Margin-trim: El margin-bottom CSS (margen-inferior) es la propiedad de un elemento que establece el espacio requerido en la parte inferior de un elemento. Tambien se permiten valores negativos.
+
+  
+
+Color:La propiedad de CSS color selecciona el valor de color de primer plano del contenido de elemento de texto y decoraciones de texto. ... Para obtener una descripción general del uso del color en HTML, consulte Aplicando color a los elementos HTML mediante CSS.
+
+
+Justify-content:  La propiedad CSS justify-content define cómo el navegador distribuye el espacio entre y alrededor de los items flex, a lo largo del eje principal de su contenedor. ... Véase Using CSS flexible boxes (en-US) para más propiedades e información.
+
+
+Justify-items: Resumen. La propiedad CSS justify-content define cómo el navegador distribuye el espacio entre y alrededor de los items flex, a lo largo del eje principal de su contenedor. ... Véase Using CSS flexible boxes (en-US) para más propiedades e información.
+
+
+* :
+
+
+
+
+
+
+Como haseer una seudoclase:tienes que crear un atrivuto ejemplo :
